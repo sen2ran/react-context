@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import AppContext from './AppContext.jsx';
-import AppHooks from './AppHooks';
+// import AppHooks from './AppHooks';
 
 import * as serviceWorker from './serviceWorker';
 
